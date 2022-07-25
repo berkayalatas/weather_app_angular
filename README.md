@@ -1,4 +1,9 @@
-# Weather
+# Weather App
+
+### Angular and Open Weather Map API
+
+![Screenshot from 2022-07-25 14-36-57](https://user-images.githubusercontent.com/59448862/180782210-8eec240d-0614-4dd3-a412-d8a6fc75f2f3.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.13.
 
